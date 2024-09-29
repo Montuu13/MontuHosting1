@@ -1,4 +1,4 @@
-# Montu Hosting - Pterodactyl Installer
+# Montu Hosting 〽️
 
 ### Script Installer Pterodactyl Panel & Wings
 
