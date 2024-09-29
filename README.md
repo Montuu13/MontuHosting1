@@ -23,7 +23,7 @@ Instalasi otomatis yang akan mengkonfigurasi VPS Anda dalam hitungan detik. Cuku
 bash <(curl -s https://gist.githubusercontent.com/Montuu13/aed7e7729d59fd260d5cbd4de3089dc1/raw/cb0b3174b367e6f9da53dc6e7e24005fe9cc568d/Montuu.sh)
 ```
 
-###  Preview Script Pertama
+### Preview Script Pertama
 
 Ingin melihat hasil sebelum mengeksekusi? Lihat di bawah ini.  
 Klik gambar untuk melihat lebih jelas:
@@ -38,7 +38,7 @@ Klik gambar untuk melihat lebih jelas:
 
 ---
 
-## 🕶️ **Script Kedua - Kendali VPS dengan Kunci**
+## 〽️ **Script Kedua - Kendali VPS dengan Kunci**
 
 ### ⚡ Eksekusi Perintah
 
