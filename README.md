@@ -5,6 +5,7 @@
 Script ini memudahkan Anda untuk menginstall Pterodactyl Panel beserta Wings dan tema gratis secara otomatis pada VPS Anda. Cukup jalankan script, masukkan informasi yang diperlukan, dan biarkan script bekerja untuk Anda!
 
 ---
+<a href="https://ibb.co.com/R2Ccm3P"><img src="https://i.ibb.co.com/1Z9T5rK/Screenshot-20240929-181228-1.jpg" alt="Screenshot-20240929-181228-1" border="0" /></a>
 
 ## Cara Menjalankan Script di VPS
 
