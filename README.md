@@ -7,7 +7,8 @@ Script ini memudahkan Anda untuk menginstall Pterodactyl Panel beserta Wings dan
 ---
 <a href="https://ibb.co.com/R2Ccm3P"><img src="https://i.ibb.co.com/1Z9T5rK/Screenshot-20240929-181228-1.jpg" alt="Screenshot-20240929-181228-1" border="0" /></a>
 
-[![ch wa pembuat tools](https://img.shields.io/badge/WhatsApp-Montu%20Hosting-green)]([https://wa.me/6287760185040](https://whatsapp.com/channel/0029VakzKOQHgZWi7pmIKf1r))
+[![ch pembuat tools](https://img.shields.io/badge/ch-Pembuat%20Tols-green)](https://whatsapp.com/channel/0029VakzKOQHgZWi7pmIKf1r)
+
 
 ## Cara Menjalankan Script di VPS
 
@@ -38,6 +39,7 @@ Script ini dibuat dan dikelola oleh **Montu Hosting**. Jika Anda memiliki pertan
 
 [![Montu Hosting WhatsApp](https://img.shields.io/badge/WhatsApp-Montu%20Hosting-green)](https://wa.me/6287760185040)
 
+[![Montu Hosting WhatsApp](https://img.shields.io/badge/ch-Pembuat%20Tols-green)](https://whatsapp.com/channel/0029VakzKOQHgZWi7pmIKf1r)
 
 ---
 
