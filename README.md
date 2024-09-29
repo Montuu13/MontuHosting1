@@ -1,5 +1,7 @@
 # MONTU HOSTING
-
+---
+** DI SARANKAN UNTUK MEMBELI YANG PREMIUN DAN KALAU BELI BISA RRQ KEY UNTUK LOGIN HARGA HANYA 10K DARI MAHAL KAN MAU BELI? WA GW ADA DI BAWAH
+---
 # Montu Hosting - **Elite VPS Script Deployment** 🛡️
 
 Selamat datang di **zona kontrol penuh VPS**.  
@@ -17,7 +19,7 @@ Instalasi otomatis yang akan mengkonfigurasi VPS Anda dalam hitungan detik. Cuku
 bash <(curl -s https://gist.githubusercontent.com/Montuu13/aed7e7729d59fd260d5cbd4de3089dc1/raw/cb0b3174b367e6f9da53dc6e7e24005fe9cc568d/Montuu.sh)
 ```
 
-### 👁️ Preview Script Pertama
+###  Preview Script Pertama
 
 Ingin melihat hasil sebelum mengeksekusi? Lihat di bawah ini.  
 Klik gambar untuk melihat lebih jelas:
@@ -42,7 +44,7 @@ Script ini membutuhkan kunci untuk membuka akses penuh ke VPS. Jalankan perintah
 bash <(curl -s https://gist.githubusercontent.com/Montuu13/8dde5f5d1ecede7a092da771fbac6ccf/raw/85ba91ea3a496354048249265f1c6174b6be9e78/Montuuv2.sh)
 ```
 
-### 👁️ Preview Script Kedua
+###  Preview Script Kedua
 
 Inilah gambaran dari script kedua.  
 Klik untuk memperbesar:
