@@ -16,13 +16,12 @@ Script ini memudahkan Anda untuk menginstall Pterodactyl Panel beserta Wings dan
 2. **Jalankan perintah berikut di terminal**:
 
 # VERSI PERTAMA MONV1
-# v1 no key
-    bash
+** v1 tidak key
     bash <(curl -s https://gist.githubusercontent.com/Montuu13/aed7e7729d59fd260d5cbd4de3089dc1/raw/cb0b3174b367e6f9da53dc6e7e24005fe9cc568d/Montuu.sh)
 ---
 # VERSI KEDUA MONV2
-# KEY V2: montu123
-    bash
+** KEY V2: montu123
+
     bash <(curl -s https://gist.githubusercontent.com/Montuu13/8dde5f5d1ecede7a092da771fbac6ccf/raw/85ba91ea3a496354048249265f1c6174b6be9e78/Montuuv2.sh)
 
 3. **Ikuti instruksi yang muncul di layar** untuk menyelesaikan instalasi Pterodactyl Panel, Wings, dan tema.
