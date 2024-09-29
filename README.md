@@ -47,7 +47,7 @@ bash <(curl -s https://gist.githubusercontent.com/Montuu13/8dde5f5d1ecede7a092da
 Inilah gambaran dari script kedua.  
 Klik untuk memperbesar:
 
-<a href="https://ibb.co.com/R2Ccm3P"><img src="https://i.ibb.co.com/1Z9T5rK/Screenshot-20240929-181228-1.jpg" alt="Script Kedua Preview" style="border-radius: 10px; box-shadow: 0 0 12px rgba(0, 255, 0, 0.5); filter: contrast(120%);"/></a>
+<a href="(https://ibb.co.com/RNGwZ7P)"><img src="https://i.ibb.co.com/YX4sYb8/Screenshot-20240930-071839-1.jpg" alt="Script Kedua Preview" style="border-radius: 10px; box-shadow: 0 0 12px rgba(0, 255, 0, 0.5); filter: contrast(120%);"/></a>
 
 ### 🔑 Kunci Akses
 
